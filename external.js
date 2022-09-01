@@ -20,3 +20,4 @@ function playRound(playerSelection, computerSelection) {
     result = "You lost! Rock beats Scissors";
   } else result = "Game over";
 }
+console.log(playRound(playerSelection, computerSelection));
